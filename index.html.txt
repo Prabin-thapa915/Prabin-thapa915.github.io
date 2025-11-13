@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Prabin Thapa - Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I’m Prabin Thapa</h1>
+    <p>Welcome to my personal webpage. I am studying ICT and have experience in aged care, retail, and technology. I am passionate about learning and building my professional journey in Australia.</p>
+</body>
+</html>
